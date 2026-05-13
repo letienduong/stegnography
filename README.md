@@ -3,7 +3,7 @@
 Install with Labtainer:
 
 `ash
-imodule https://github.com/letienduong/stegnography/raw/master/hevc-intra-stego.tar.gz
+imodule https://github.com/letienduong/stegnography/raw/master/hevc-intra-stego.tar
 labtainer hevc-intra-stego
 `
 
